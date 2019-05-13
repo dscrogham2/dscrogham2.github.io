@@ -1,0 +1,14 @@
+;
+
+root {
+    --red:
+        --Aqua: #00FFFF;
+    --black: #000000;
+    --DarkBlue: #00008B;
+    --DarkGray: #A9A9A9;
+    --DarkRed: #8B0000;
+    --Green: #008000: --Lavender: #E6E6FA;
+    --Purple: #800080: --Yellow: #FFFF00;
+    --MidnightBlue: #191970;
+    --White: #FFFFFF;
+}
