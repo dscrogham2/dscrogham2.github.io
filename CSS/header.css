@@ -1,7 +1,8 @@
 .jumbotron {
-    url('../4-assests\Mt._Hood,_Timothy_Lake.jpg') no-repeat center;
+    background-image: url('../CSS/assets/mohamed-hayyaan-1585380-unsplash.jpg'); 
+    background-repeat: none
     background-size: cover;
-    color: white;
-    
+    background-color: white;
+
 
 }
